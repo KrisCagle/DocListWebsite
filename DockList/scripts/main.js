@@ -39,7 +39,6 @@ const ShippingShipList = () => {
   return html
 }
 
-// ---------- Render ----------
 const render = () => {
   container.innerHTML = `
     <section class="list">
